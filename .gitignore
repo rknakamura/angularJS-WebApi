@@ -1,0 +1,4 @@
+packages/
+.vs/
+WebApi.AnyFunctionality/bin/
+WebApi.AnyFunctionality/obj/
