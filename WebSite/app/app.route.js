@@ -11,5 +11,12 @@
         .when('/other', {
             templateUrl: 'app/pages/other.html',
             controller: 'appController'
+            })
+
+        .when('/addRemove', {
+            templateUrl: 'app/pages/addRemove.html',
+            controller: 'appAddRemoveController',
+            controllerAs: 'vm'
         })
+
 });

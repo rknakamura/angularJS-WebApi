@@ -1,0 +1,12 @@
+﻿<div>
+    <ul>
+        <li ng-repeat="item in vm.list">
+            {{item.Name}}
+            <input type="button" value="Remove" ng-click="vm.remove(item.Id)" />
+        </li>
+    </ul>
+</div>
+<form ng-submit="vm.save()" ng-controller="appAddRemoveController">
+    <input type="text" ng-model="vm.input.Name" />
+    <input type="submit" value="Save" />    
+</form>

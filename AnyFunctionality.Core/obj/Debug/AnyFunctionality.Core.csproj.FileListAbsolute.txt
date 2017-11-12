@@ -1,0 +1,4 @@
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Core\bin\Debug\AnyFunctionality.Core.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Core\bin\Debug\AnyFunctionality.Core.pdb
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Core\obj\Debug\AnyFunctionality.Core.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Core\obj\Debug\AnyFunctionality.Core.pdb

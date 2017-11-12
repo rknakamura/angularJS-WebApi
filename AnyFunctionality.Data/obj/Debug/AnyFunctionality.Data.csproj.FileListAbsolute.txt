@@ -1,0 +1,14 @@
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\DatabaseDemo.mdf
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\DatabaseDemo_log.ldf
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\AnyFunctionality.Core.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\EntityFramework.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\AnyFunctionality.Core.pdb
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\EntityFramework.xml
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\obj\Debug\AnyFunctionality.Data.csprojResolveAssemblyReference.cache
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\obj\Debug\AnyFunctionality.Data.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\obj\Debug\AnyFunctionality.Data.pdb
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\AnyFunctionality.Data.dll.config
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\AnyFunctionality.Data.dll
+C:\Git\WebApi.AnyFunctionality\AnyFunctionality.Data\bin\Debug\AnyFunctionality.Data.pdb
